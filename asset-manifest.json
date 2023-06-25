@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Blog-React/static/css/main.9c6bfba1.css",
+    "main.js": "/Blog-React/static/js/main.bc3e6cc5.js",
+    "static/js/27.63d4417b.chunk.js": "/Blog-React/static/js/27.63d4417b.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/Blog-React/static/media/bootstrap-icons.6959d0d983ee318f8880.woff",
+    "static/media/bootstrap-icons.woff2?": "/Blog-React/static/media/bootstrap-icons.b2e5aab643c6f0fd2da6.woff2",
+    "index.html": "/Blog-React/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.9c6bfba1.css",
+    "static/js/main.bc3e6cc5.js"
+  ]
+}
